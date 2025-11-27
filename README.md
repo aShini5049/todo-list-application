@@ -2,7 +2,7 @@ A simple To-Do List application built with **React** and **TypeScript**.
 
 How to run the project:
   1.	Clone the repository
-    git clone https://github.com/YOUR_USERNAME/todo-list-app.git
+    git clone https://github.com/YOUR_USERNAME/todo-list-application.git
   2.	Install Dependencies
     npm install
   3.	Start the development server

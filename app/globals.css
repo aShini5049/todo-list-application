@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  font-family: Oswald;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
